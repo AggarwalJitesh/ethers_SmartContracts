@@ -1,0 +1,3 @@
+# Ether HardHat
+
+hi!!
